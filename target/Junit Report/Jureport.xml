@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="100.522107">
+    <testcase classname="To Validate Registration Desk" name="To verify registration desk functionality" time="100.522107">
+        <system-out><![CDATA[Given User has to launch any browser and url of application.................passed
+When User has to pass valid credentials in email and password field.........passed
+And User has to pick any location and click on Login and verify user redirected to dashboard.passed
+And User has to click patient register menu and fill all details in demographics and contact info.passed
+And User has to confirm start visit then attaching problems then verifying successfully attached message and ending visit.passed
+And User has to visit again for body bmi calculation........................passed
+And User has to add past visit and delete the records.......................passed
+]]></system-out>
+    </testcase>
+</testsuite>
